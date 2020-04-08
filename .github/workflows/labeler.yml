@@ -8,8 +8,8 @@
 name: Labeler
 on: [pull_request]
 
-jobs:
-  label:
+jobs:git@ssh.dev.azure.com:v3/AtLastSecSrvonmicrosoftcom/laurassecurewebbrowser/laurassecurewebbrowser/.github/actions/labler.yml
+  label:issues-n-tissues
 
     runs-on: ubuntu-latest
 
