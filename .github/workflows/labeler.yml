@@ -8,10 +8,10 @@
 name: Labeler
 on: [pull_request]
 
-jobs:git@ssh.dev.azure.com:v3/AtLastSecSrvonmicrosoftcom/laurassecurewebbrowser/laurassecurewebbrowser/.github/actions/labler.yml
-  label:issues-n-tissues
+jobs:
+  label:https://atlslscsrv-app.github.io/fiery-bonbon-228715/github.com/actions/labler/blob/master/README.md
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest.github/workflows/label.yml
 
     steps:
     - uses: actions/labeler@v2
